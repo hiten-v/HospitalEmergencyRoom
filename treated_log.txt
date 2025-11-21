@@ -1,0 +1,7 @@
+Treated: [ID:1, hiten, Severity:2, Arrived:2025-10-11T14:40:27]
+Treated: [ID:2, Ananya, Severity:10, Arrived:2025-10-11T14:51:17.968213600]
+Removed: [ID:3, Neha, Severity:10, Arrived:2025-10-11T14:51:20.407736300]
+Treated: [ID:5, Riya, Severity:10, Arrived:2025-10-11T14:51:23.646524700]
+Treated: [ID:7, Vivaan, Severity:8, Arrived:2025-10-11T14:51:26.089912100]
+Treated: [ID:4, Dev, Severity:7, Arrived:2025-10-11T14:51:22.025726]
+Treated: [ID:6, Neha, Severity:6, Arrived:2025-10-11T14:51:25.269064300]
